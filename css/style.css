@@ -147,7 +147,12 @@ h2 {
   color: white !important;
  }
  
-
+ 
+.img-portada {
+  margin-left: 630px;
+  margin-top: -700px;
+}
+ 
 .footer_style {
   background-color: #d28d0b;
   color: white;
@@ -165,14 +170,12 @@ h2 {
     float: right;
     margin: 15px;
   }
-  
-
-
 
 /* TOUR*/
 .list-group-item {
-  background-color: black;
+  background-color: white;
   font-size: 20px; 
+  margin-top: 20px;
 }
 
 .btn-primary {
